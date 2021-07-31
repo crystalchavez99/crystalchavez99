@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crystalchavez99
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning web development (HTML, CSS, JS)
 - 📫 How to reach me redfire1205@hotmail.com
 
 <!---
