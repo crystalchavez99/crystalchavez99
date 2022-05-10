@@ -7,7 +7,7 @@ Software Engineer
 *   🌍  I'm based in California
 *   🖥️  See my portfolio at [My Portfolio](http://crystalchavez.codes/)
 *   ✉️  You can contact me at [chavezcrystal1999@yahoo.com](mailto:chavezcrystal1999@yahoo.com)
-*   🧠  I'm learning Python
+*   🧠  I'm working on my capstone.
 *   🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/crystalchavez99" target="_blank" rel="noreferrer"><img
