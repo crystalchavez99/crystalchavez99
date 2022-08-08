@@ -6,18 +6,22 @@ Hi 👋 My name is Crystal Chavez
 
 Software Engineer
 -------------------------------
+![Anya Dancing](https://spy-family.net/assets/img/special/special10_5.gif)
+<div align="center">
 
-*   🌍  I'm based in California
-*   🖥️  See my portfolio at [My Portfolio](http://crystalchavez.codes/)
-*   ✉️  You can contact me at [chavezcrystal1999@yahoo.com](mailto:chavezcrystal1999@yahoo.com)
-*   🧠  I'm working on DSA.
-*   🤝  I'm open to collaborating on interesting projects
+🌍  I'm based in California
+
+🖥️  See my portfolio at [My Portfolio](http://crystalchavez.codes/)
+
+✉️  You can contact me at [chavezcrystal1999@yahoo.com](mailto:chavezcrystal1999@yahoo.com)
+*
+</div>
 
 <div align="center">
 <a href="https://www.github.com/crystalchavez99" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/crystalchavez99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/redfire1205" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/redfire1205?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-                  <p><img src="https://komarev.com/ghpvc/?username=crystalchavez99" alt="crystalchavez99" /></p>
+
 </div>
 
 ### Skills
@@ -47,11 +51,10 @@ Software Engineer
 
 ### Badges
 
-<div style="display: grid;
-grid-template-columns: repeat(2, 1fr); ">
+<div align="center">
 <a href="http://www.github.com/crystalchavez99"><img src="https://github-readme-stats.vercel.app/api?username=crystalchavez99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="crystalchavez99's GitHub stats" /></a>
 
-<a href="https://github.com/crystalchavez99"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystalchavez99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/crystalchavez99"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystalchavez99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 </div>
 
 </div>
