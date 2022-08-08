@@ -6,7 +6,9 @@ Hi 👋 My name is Crystal Chavez
 
 Software Engineer
 -------------------------------
+
 ![Anya Dancing](https://spy-family.net/assets/img/special/special10_5.gif)
+
 <div align="center">
 
 🌍  I'm based in California
@@ -14,7 +16,7 @@ Software Engineer
 🖥️  See my portfolio at [My Portfolio](http://crystalchavez.codes/)
 
 ✉️  You can contact me at [chavezcrystal1999@yahoo.com](mailto:chavezcrystal1999@yahoo.com)
-*
+
 </div>
 
 <div align="center">
