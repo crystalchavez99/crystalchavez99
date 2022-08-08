@@ -7,7 +7,8 @@ Hi 👋 My name is Crystal Chavez
 Software Engineer
 -------------------------------
 
-![Anya Dancing](https://spy-family.net/assets/img/special/special10_5.gif)
+<!-- ![Anya](https://spy-family.net/assets/img/special/special10_5.gif) -->
+<img src="https://spy-family.net/assets/img/special/special10_5.gif">
 
 <div align="center">
 
