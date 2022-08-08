@@ -8,7 +8,7 @@ Software Engineer
 -------------------------------
 
 <!-- ![Anya](https://spy-family.net/assets/img/special/special10_5.gif) -->
-<img src="https://spy-family.net/assets/img/special/special10_5.gif">
+<!-- <img src="https://spy-family.net/assets/img/special/special10_5.gif"> -->
 
 <div align="center">
 
