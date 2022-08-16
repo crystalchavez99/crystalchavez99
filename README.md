@@ -5,7 +5,7 @@
 
 <div align="center">
 
-   ![Anya](https://spy-family.net/assets/img/special/special10_5.gif)
+   ![Anya](https://media.giphy.com/media/37Md3lHS7s6k2tHIp7/giphy.gif)
 
 </div>
 
