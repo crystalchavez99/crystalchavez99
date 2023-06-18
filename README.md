@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Twitter Clone and volunteering for Tech Optimum<br>🌱 I’m currently learning Next and Nest.js 3<br>💬 Ask me about some anime<br>⚡ Fun fact I've been to to OWL 2022 Grand Finals
+🔭 I’m currently attending Netflix Pathway Bootcamp<br>🌱 I’m currently learning Next and Nest.js 3<br>💬 Ask me about some anime<br>⚡ Fun fact I've been to to OWL 2022 Grand Finals
 
 
 ## 🌐 Socials:
